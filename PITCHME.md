@@ -16,7 +16,7 @@ contenente le informazioni confidenziali relative alla commessa **WireCat**
 
 ## Descrizione dell'attacco
 
-Tra le 21:41 e le 21:42:
+Tra le 21:41 e le 21:42
 - dal computer *nospringchicken* abbiamo notato attività anomale
 - dallo stesso computer è stato portato un attacco al server di posta scoprendo la password di un utente e leggendo
   la sua posta
@@ -29,9 +29,8 @@ Tra le 21:41 e le 21:42:
 
 ## Recupero informazioni sull'infrastruttura informatica
 
-- L'attaccante ha sfrutatto una configurazione insicura per ottenere informazioni
-sui server dell'azienda
-- tecnicamente: DNS zone transfer
+L'attaccante ha sfrutatto una configurazione insicura per ottenere informazioni
+sui server dell'azienda, tecnicamente: DNS zone transfer 
 
 ---
 
