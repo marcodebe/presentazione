@@ -1,4 +1,4 @@
-# White
+# TShark Team
 
 ### Incidente Leonardo Company
 
@@ -8,8 +8,8 @@
 
 <br>
 
-Nel pomeriggio del giorno 21 dicembre un file contenente informazioni confidenziali
-relative alla commessa ..
+Nel pomeriggio del giorno 21 dicembre un file contenente le informazioni confidenziali
+relative alla commessa **WireCat** è stato inviato ad un soggetto esterno all'azienda
 
 ---
 
