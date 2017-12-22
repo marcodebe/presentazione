@@ -14,16 +14,15 @@ contenente le informazioni confidenziali relative alla commessa **WireCat**
 
 ---
 
-@title[Descrizione dell'attacco]
+### Descrizione dell'attacco
 
 Tra le 21:41 e le 21:42
 - dal computer *nospringchicken* abbiamo notato attività anomale
-- attacco al server di posta scoprendo la password di un utente e leggendo
-  la sua posta
-- all'interno del messaggio di posta l'attaccante ha trovato indicazioni riguardanti la posizione del file
+- attacco al server di posta: scoperta la password di un utente
+- all'interno di un messaggio di posta l'attaccante trova indicazioni riguardanti la posizione del file
   relativo alla commessa
-- utilizzando le stesse credenziali l'attaccante ha scaricato il documento da uno dei vostri server web
-- l'attaccante ha inviato il documento riservato via mail ad un indirizzo esterno
+- l'attaccante scarica il documento da uno dei vostri server web
+- l'attaccante invia il documento riservato via mail ad un indirizzo esterno
 
 ---
 
