@@ -18,7 +18,7 @@ contenente le informazioni confidenziali relative alla commessa **WireCat**
 
 Tra le 21:41 e le 21:42
 - dal computer *nospringchicken* abbiamo notato attività anomale
-- dallo stesso computer è stato portato un attacco al server di posta scoprendo la password di un utente e leggendo
+- attacco al server di posta scoprendo la password di un utente e leggendo
   la sua posta
 - all'interno del messaggio di posta l'attaccante ha trovato indicazioni riguardanti la posizione del file
   relativo alla commessa
