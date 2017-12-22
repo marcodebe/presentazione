@@ -8,13 +8,13 @@
 
 <br>
 
-Nel pomeriggio del giorno 21 dicembre è stato compromesso di un dipendente
-dell'azienda per inviare, con successo, ad un soggetto esterno il file
+Nel pomeriggio del giorno 21 dicembre è stato compromesso l'account di un dipendente
+dell'azienda per inviare, ad un soggetto esterno, il file
 contenente le informazioni confidenziali relative alla commessa **WireCat**
 
 ---
 
-## Descrizione dell'attacco
+### Descrizione dell'attacco
 
 Tra le 21:41 e le 21:42
 - dal computer *nospringchicken* abbiamo notato attività anomale
@@ -27,14 +27,14 @@ Tra le 21:41 e le 21:42
 
 ---
 
-## Recupero informazioni sull'infrastruttura informatica
+### Recupero informazioni sull'infrastruttura informatica
 
 L'attaccante ha sfrutatto una configurazione insicura per ottenere informazioni
 sui server dell'azienda, tecnicamente: DNS zone transfer 
 
 ---
 
-## Attacco al server di posta
+### Attacco al server di posta
 
 - L'attaccante ha trovato la password di un dipendente aziendale tramite un
 attacco a dizionario, cioè provando password comuni.
@@ -43,7 +43,7 @@ documento relativo alla commessa WireCat: sul sito intranet aziendale
 
 ---
 
-## Accesso al sito intranet (intranet.leopardocompany.com)
+### Accesso al sito intranet (intranet.leopardocompany.com)
 
 ![Alt Text](Bad_security.png)
 
