@@ -26,7 +26,7 @@ contenente le informazioni confidenziali relative alla commessa **WireCat**
 
 ## Descrizione dell'attacco
 
-[Bad_security.png]
+[Bad\_security.png]
 
 @[1,3-6](Present code found within any repo source file.)
 @[8-18](Without ever leaving your slideshow.)
