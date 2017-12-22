@@ -24,6 +24,7 @@ contenente le informazioni confidenziali relative alla commessa **WireCat**
 - Utilizzando le stesse credenziali l'attaccante ha scaricato il documento da uno dei vostri server web
 - L'attaccante ha inviato il documento riservato via mail ad un indirizzo esterno
 
+## Descrizione dell'attacco
 ---?image=Bad\_security.png
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
