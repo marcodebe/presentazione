@@ -1,6 +1,6 @@
 # TShark Team
 
-### Incidente Leonardo Company
+### Incidente Leopardo Company
 
 ---
 
@@ -8,20 +8,23 @@
 
 <br>
 
-Nel pomeriggio del giorno 21 dicembre un file contenente le informazioni confidenziali
-relative alla commessa **WireCat** è stato inviato ad un soggetto esterno all'azienda
+Nel pomeriggio del giorno 21 dicembre è stato compromesso di un dipendente
+dell'azienda per inviare, con successo, ad un soggetto esterno il file
+contenente le informazioni confidenziali relative alla commessa **WireCat**
 
 ---
 
-## Template Features
+## Descrizione dell'attacco
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Dal computer *nospringchicken* abbiamo notato attività anomale
+- Dallo stesso computer è stato portato un attacco al server di posta
+- L'attacco ha avuto successo e l'attaccante ha scoperto la password di un utente e letto la sua posta
+- All'interno del messaggio di posta l'attaccante ha trovato indicazioni relative alla posizione del file
+  relativo alla commessa
+- Utilizzando le stesse credenziali l'attaccante ha scaricato il documento da uno dei vostri server web
+- L'attaccante ha inviato il documento riservato via mail ad un indirizzo esterno
 
+---?image=Bad\_security.png
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
