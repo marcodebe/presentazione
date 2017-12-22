@@ -14,7 +14,7 @@ contenente le informazioni confidenziali relative alla commessa **WireCat**
 
 ---
 
-### Descrizione dell'attacco
+@title[Descrizione dell'attacco]
 
 Tra le 21:41 e le 21:42
 - dal computer *nospringchicken* abbiamo notato attività anomale
@@ -43,7 +43,7 @@ documento relativo alla commessa WireCat: sul sito intranet aziendale
 
 ---
 
-### Accesso al sito intranet (intranet.leopardocompany.com)
+### Accesso al sito intranet
 
 ![Alt Text](Bad_security.png)
 
