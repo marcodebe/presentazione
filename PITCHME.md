@@ -25,8 +25,7 @@ contenente le informazioni confidenziali relative alla commessa **WireCat**
 - L'attaccante ha inviato il documento riservato via mail ad un indirizzo esterno
 
 ## Descrizione dell'attacco
----?image=Bad\_security.png
----?code=src/go/server.go&lang=golang&title=Golang File
+(image=Bad\_security.png "Alt image")
 
 @[1,3-6](Present code found within any repo source file.)
 @[8-18](Without ever leaving your slideshow.)
