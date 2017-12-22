@@ -1,16 +1,15 @@
 # White
 
-### A GitPitch Presentation Template
+### Incidente Leonardo Company
 
 ---
 
-## Tips!
+## TL;DR
 
 <br>
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+Nel pomeriggio del giorno 21 dicembre un file contenente informazioni confidenziali
+relative alla commessa ..
 
 ---
 
